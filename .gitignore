@@ -1,1 +1,5 @@
-
+database.sqlite
+model.pkl
+.vscode/
+__pycache__/
+*.pyc
